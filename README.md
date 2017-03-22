@@ -1,5 +1,5 @@
 # SpirallingCells
-SpirallingCells: A Cellular Automaton
+# SpirallingCells: A Cellular Automaton
 
 Please read the manual and download the Python code. 
 
