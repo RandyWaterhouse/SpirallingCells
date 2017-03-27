@@ -6,7 +6,7 @@ The software and documentation are available under the GNU General Public Licens
 
 A short video introduction can be found on YouTube:
 https://youtu.be/4RWBwDMeWpE (german language) and https://youtu.be/jA9zmjDE5MI
- (english language)
+ (english language, large video file size) or https://youtu.be/YnoZry3CjYY (english language, smaller video file size)
  
 Screenshot of program:
 
